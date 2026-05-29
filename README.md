@@ -18,7 +18,7 @@
 
 <br><br>
 
-> Futuristic hacker operating system inspired by Kali Linux, Matrix and Cyberpunk 2077
+> Futuristic hacker operating system inspired by Kali Linux, Matrix and Cyberpunk 2077.
 
 </div>
 
@@ -123,11 +123,15 @@ E muito mais chegando nos próximos upgrades...
 pkg update -y && pkg upgrade -y
 ```
 
+---
+
 ## Instalar dependências
 
 ```bash
 pkg install git nodejs nano curl wget python vim zip unzip -y
 ```
+
+---
 
 ## Clonar repositório
 
@@ -135,17 +139,43 @@ pkg install git nodejs nano curl wget python vim zip unzip -y
 git clone https://github.com/henriq-ycler-js/henriq-js-terminal
 ```
 
+---
+
 ## Entrar na pasta
 
 ```bash
-cd linuxh.js
+cd henriq-js-terminal
 ```
+
+---
 
 ## Criar package.json
 
 ```bash
 npm init -y
 ```
+
+---
+
+## Criar arquivo principal
+
+```bash
+nano henriq-js.js
+```
+
+Cole o código do terminal.
+
+---
+
+## Salvar arquivo
+
+```text
+CTRL + O
+ENTER
+CTRL + X
+```
+
+---
 
 ## Executar terminal
 
@@ -158,7 +188,7 @@ node henriq-js.js
 # ⚡ EXECUÇÃO RÁPIDA
 
 ```bash
-echo "alias henriq='node ~/linuxh.js/henriq-js.js'" >> ~/.bashrc
+echo "alias henriq='node ~/henriq-js-terminal/henriq-js.js'" >> ~/.bashrc
 ```
 
 ```bash
@@ -189,9 +219,9 @@ henriq
 
 ---
 
-# 🌐 REPOSITÓRIO
+# 🌐 REPOSITÓRIO OFICIAL
 
-https://github.com/henriq-ycler-js/henriq-js-terminal
+[github.com](https://reference-url-citation.invalid/0)
 
 ---
 
