@@ -1,0 +1,20 @@
+{
+  "name": "henriq-js-terminal",
+  "version": "1.0.0",
+  "description": "Cyberpunk developer terminal for Termux Android",
+  "main": "linuxh.js",
+  "scripts": {
+    "start": "node linuxh.js"
+  },
+  "keywords": [
+    "termux",
+    "android",
+    "cyberpunk",
+    "terminal",
+    "nodejs",
+    "linux",
+    "hacker"
+  ],
+  "author": "HENRIQ-JS",
+  "license": "MIT"
+}
