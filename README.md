@@ -1,28 +1,175 @@
-<div align="center">
+<div align="center">⚡ HENRIQ-JS TERMINAL
 
-# ⚡ HENRIQ-JS TERMINAL
+Cyberpunk Developer Terminal for Termux Android
 
-> Advanced Cyberpunk Developer Terminal for Termux Android
+<img src="LINK_DA_SUA_IMAGEM_AQUI" width="100%"><br>"NodeJS" (https://img.shields.io/badge/NodeJS-Termux-green)
+"Android" (https://img.shields.io/badge/Android-Compatible-brightgreen)
+"Termux" (https://img.shields.io/badge/Termux-Supported-blue)
+"TV Box" (https://img.shields.io/badge/TV%20Box-Compatible-purple)
+"JavaScript" (https://img.shields.io/badge/JavaScript-Cyberpunk-yellow)
 
-<img src="LINK_DA_SUA_IMAGEM_AQUI" width="100%">
+</div>---
 
-</div>
+🧠 Sobre o Projeto
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━
+O HENRIQ-JS TERMINAL foi criado com a ideia de transformar o Termux Android em um verdadeiro ambiente cyberpunk para programadores.
 
-# 🧠 SOBRE O PROJETO
+A maioria dos “terminais hackers” existentes hoje são apenas efeitos visuais ou interfaces falsas.
+Então eu quis criar algo diferente:
 
-O HENRIQ-JS TERMINAL nasceu da ideia de transformar o Termux Android em um verdadeiro sistema hacker futurista inspirado em:
+- Bonito
+- Funcional
+- Futurista
+- Útil para desenvolvedores
+- Compatível com Android
+- Inspirado em sistemas Linux reais
+
+Tudo isso usando apenas:
+
+- JavaScript
+- NodeJS
+- Termux
+- ANSI Escape Codes
+- Um único arquivo ".js"
+
+---
+
+🎨 Inspirações
 
 - Kali Linux
 - BlackArch
 - Matrix
 - Mr Robot
 - Cyberpunk 2077
-- Linux terminals reais
+- Linux terminals
+- Consoles futuristas
 
-A maioria dos “terminais hackers” existentes são apenas interfaces falsas ou apenas efeitos visuais.
+---
 
+🚀 Funcionalidades
+
+✔ Shell Linux integrada
+✔ Sistema DEV
+✔ Criador de APIs Express
+✔ Criador de projetos NodeJS
+✔ Editor de arquivos
+✔ Gerenciador de arquivos
+✔ Ferramentas de rede
+✔ Ping
+✔ DNS Lookup
+✔ HTTP Tester
+✔ Port Scanner
+✔ Monitor de CPU
+✔ Monitor de RAM
+✔ Launcher Android
+✔ Interface ANSI Cyberpunk
+✔ Temas avançados
+✔ Compatibilidade Android TV
+✔ Compatibilidade Touch
+✔ Compatibilidade teclado físico
+✔ Compatibilidade controle remoto
+
+---
+
+🎨 Temas
+
+- Kali Linux
+- Matrix Green
+- Red Hacker
+- Neon Blue
+- Purple Cyber
+- Amber Terminal
+
+---
+
+📱 Compatibilidade
+
+✔ Android
+✔ Android TV
+✔ TV Box
+✔ Termux
+✔ NodeJS
+✔ Linux
+✔ Touch
+✔ DPAD
+✔ Bluetooth Keyboard
+
+---
+
+📥 Instalação
+
+Instalar dependências
+
+pkg update -y && pkg upgrade -y
+pkg install git nodejs nano curl wget python vim zip unzip -y
+
+---
+
+📥 Clonar Repositório
+
+git clone https://github.com/SEUUSUARIO/henriq-js-terminal.git
+
+---
+
+📂 Entrar na Pasta
+
+cd henriq-js-terminal
+
+---
+
+📦 Instalar Dependências
+
+npm install
+
+---
+
+▶ Executar
+
+node henriq-js.js
+
+---
+
+⚡ Execução Rápida
+
+echo "alias henriq='node ~/henriq-js-terminal/henriq-js.js'" >> ~/.bashrc
+source ~/.bashrc
+
+Agora basta usar:
+
+henriq
+
+---
+
+🛠 Tecnologias
+
+- JavaScript
+- NodeJS
+- Linux Shell
+- ANSI Escape Codes
+- Termux API
+- Android Intents
+
+---
+
+🖼 Preview
+
+Suba uma screenshot do terminal no GitHub e troque:
+
+LINK_DA_SUA_IMAGEM_AQUI
+
+Pelo link RAW da imagem.
+
+Exemplo:
+
+https://raw.githubusercontent.com/SEUUSUARIO/henriq-js-terminal/main/preview.png
+
+---
+
+👨‍💻 Autor
+
+HENRIQ-JS
+
+«“Transformando o Termux em um verdadeiro sistema cyberpunk para programadores.”»
 Então eu quis criar algo:
 - bonito
 - útil
