@@ -1,438 +1,32 @@
-⚡ HENRIQ-JS TERMINAL
+<div align="center">
 
-CYBERPUNK DEVELOPER TERMINAL FOR TERMUX ANDROID
+# ⚡ HENRIQ-JS TERMINAL
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/henriq-ycler-js/henriq-js-terminal/bb196368b9a227cd2ee0355eddfcfc5875a70009/Screenshot_20260529_160555_Termux.jpg" width="100%">
-</p><p align="center">
-  <img src="https://img.shields.io/badge/ANDROID-SUPPORTED-00ff88?style=for-the-badge">
-  <img src="https://img.shields.io/badge/TERMUX-CYBERPUNK-00ccff?style=for-the-badge">
-  <img src="https://img.shields.io/badge/NODEJS-HACKER-00ff00?style=for-the-badge">
-  <img src="https://img.shields.io/badge/TV_BOX-COMPATIBLE-bb00ff?style=for-the-badge">
-</p>---
+### CYBERPUNK DEVELOPER TERMINAL FOR TERMUX ANDROID
 
-🧠 SOBRE
+<img src="https://raw.githubusercontent.com/henriq-ycler-js/henriq-js-terminal/bb196368b9a227cd2ee0355eddfcfc5875a70009/Screenshot_20260529_160555_Termux.jpg" width="100%">
 
-O HENRIQ-JS TERMINAL foi criado para transformar o Termux Android em um ambiente cyberpunk para programadores.
+<br>
 
-Inspirado em:
+<img src="https://img.shields.io/badge/ANDROID-SUPPORTED-00ff88?style=for-the-badge&logo=android&logoColor=black">
 
-- Kali Linux
-- BlackArch
-- Matrix
-- Mr Robot
-- Cyberpunk 2077
-- Linux terminals reais
+<img src="https://img.shields.io/badge/TERMUX-CYBERPUNK-00ccff?style=for-the-badge&logo=gnubash&logoColor=black">
 
-O projeto mistura:
+<img src="https://img.shields.io/badge/NODEJS-HACKER-00ff00?style=for-the-badge&logo=node.js&logoColor=black">
 
-- NodeJS
-- Linux Shell
-- Ferramentas DEV
-- Interface ANSI Cyberpunk
-- Android Integration
-- TV Box Support
-
-Tudo funcionando dentro de um único arquivo JavaScript.
-
----
-
-⚡ VISUAL
-
-- ANSI COLORS
-- Neon Effects
-- Hacker UI
-- Animated Menus
-- Linux Panels
-- Cyberpunk Interface
-- Matrix Style
-- Responsive Layout
-- TV Box Optimized
-
----
-
-🚀 FUNCIONALIDADES
-
-- Shell Linux
-- DEV Tools
-- File Manager
-- Network Tools
-- Android Integration
-- Themes System
-- CPU Monitor
-- RAM Monitor
-- Ping System
-- Port Scanner
-- API Creator
-- NodeJS Projects
-- Hacker Interface
-- Android Launcher
-- TV Box Support
-
-E muito mais chegando nos próximos upgrades...
-
----
-
-🎨 TEMAS
-
-- Kali Linux
-- Matrix Green
-- Red Hacker
-- Neon Blue
-- Purple Cyber
-- Amber Terminal
-
----
-
-📱 COMPATIBILIDADE
-
-- Android
-- Android TV
-- TV Box
-- Termux
-- NodeJS
-- Touch
-- DPAD
-- Bluetooth Keyboard
-- Remote Control
-
----
-
-📥 INSTALAÇÃO
-
-Atualizar Termux
-
-pkg update -y && pkg upgrade -y
-
-Instalar dependências
-
-pkg install git nodejs nano curl wget python vim zip unzip -y
-
-Clonar repositório
-
-git clone https://github.com/henriq-ycler-js/henriq-js-terminal
-
-Entrar na pasta
-
-cd linuxh.js
-
-Criar package.json
-
-npm init -y
-
-Executar
-
-node henriq-js.js
-
----
-
-⚡ EXECUÇÃO RÁPIDA
-
-echo "alias henriq='node ~/linuxh.js/henriq-js.js'" >> ~/.bashrc
-
-source ~/.bashrc
-
-Agora basta usar:
-
-henriq
-
----
-
-🛠 FUTURAS ATUALIZAÇÕES
-
-- Plugins
-- AI Tools
-- SSH System
-- Better Android Integration
-- Advanced Themes
-- Multi Window
-- Better Performance
-- More DEV Tools
-- Cyberpunk Effects
-
----
-
-🌐 REPOSITÓRIO
-
-https://github.com/henriq-ycler-js/henriq-js-terminal
-
----
-
-👨‍💻 AUTOR
-
-HENRIQ-JS
-
-«“Transformando o Termux em um verdadeiro sistema cyberpunk para programadores.”»
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,100:00ccff&height=120&section=footer"/>
-</p>✔ TV Box Support
-
-E muito mais chegando nos próximos upgrades...
-
----
-
-🎨 TEMAS
-
-◉ Kali Linux
-◉ Matrix Green
-◉ Red Hacker
-◉ Neon Blue
-◉ Purple Cyber
-◉ Amber Terminal
-
----
-
-📱 COMPATIBILIDADE
-
-✔ Android
-✔ Android TV
-✔ TV Box
-✔ Termux
-✔ NodeJS
-✔ Touch
-✔ DPAD
-✔ Bluetooth Keyboard
-✔ Remote Control
-
----
-
-📥 INSTALAÇÃO
-
-Atualizar Termux
-
-pkg update -y && pkg upgrade -y
-
----
-
-Instalar dependências
-
-pkg install git nodejs nano curl wget python vim zip unzip -y
-
----
-
-Clonar repositório
-
-git clone https://github.com/henriq-ycler-js/henriq-js-terminal
-
----
-
-Entrar na pasta
-
-cd linuxh.js
-
----
-
-Instalar dependências
-
-npm init -y
-
----
-
-Executar
-
-node henriq-js.js
-
----
-
-⚡ EXECUÇÃO RÁPIDA
-
-echo "alias henriq='node ~/linuxh.js/henriq-js.js'" >> ~/.bashrc
-
-source ~/.bashrc
-
-Agora basta usar:
-
-henriq
-
----
-
-🛠 FUTURAS ATUALIZAÇÕES
-
-◉ Plugins
-◉ AI Tools
-◉ SSH System
-◉ Better Android Integration
-◉ Advanced Themes
-◉ Multi Window
-◉ Better Performance
-◉ More DEV Tools
-◉ Cyberpunk Effects
-
----
-
-🌐 REPOSITÓRIO
-
-https://github.com/henriq-ycler-js/henriq-js-terminal
-
----
-
-👨‍💻 AUTOR
-
-HENRIQ-JS
-
-«“Transformando o Termux em um verdadeiro sistema cyberpunk para programadores.”»
-
-<br><img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,100:00ccff&height=120&section=footer"/>- Linux Shell
-- Ferramentas DEV
-- Interface ANSI Cyberpunk
-- Android Integration
-- TV Box Support
-
-Tudo funcionando dentro de um único arquivo JavaScript.
-
----
-
-⚡ VISUAL CYBERPUNK
-
-✔ ANSI COLORS
-✔ Neon Effects
-✔ Hacker UI
-✔ Animated Menus
-✔ Linux Panels
-✔ Cyberpunk Interface
-✔ Matrix Style
-✔ Responsive Layout
-✔ TV Box Optimized
-
----
-
-🚀 FUNCIONALIDADES
-
-✔ Shell Linux
-✔ DEV Tools
-✔ File Manager
-✔ Network Tools
-✔ Android Integration
-✔ Themes System
-✔ CPU Monitor
-✔ RAM Monitor
-✔ Ping System
-✔ Port Scanner
-✔ API Creator
-✔ NodeJS Projects
-✔ Hacker Interface
-✔ Android Launcher
-✔ TV Box Support
-
-E muito mais chegando nos próximos upgrades...
-
----
-
-🎨 TEMAS
-
-◉ Kali Linux
-◉ Matrix Green
-◉ Red Hacker
-◉ Neon Blue
-◉ Purple Cyber
-◉ Amber Terminal
-
----
-
-📱 COMPATIBILIDADE
-
-✔ Android
-✔ Android TV
-✔ TV Box
-✔ Termux
-✔ NodeJS
-✔ Touch
-✔ DPAD
-✔ Bluetooth Keyboard
-✔ Remote Control
-
----
-
-📥 INSTALAÇÃO
-
-Atualizar Termux
-
-pkg update -y && pkg upgrade -y
-
----
-
-Instalar dependências
-
-pkg install git nodejs nano curl wget python vim zip unzip -y
-
----
-
-Clonar repositório
-
-git clone https://github.com/henriq-ycler-js/henriq-js-terminal
-
----
-
-Entrar na pasta
-
-cd linuxh.js
-
----
-
-Instalar dependências
-
-npm init -y
-
----
-
-Executar
-
-node henriq-js.js
-
----
-
-⚡ EXECUÇÃO RÁPIDA
-
-echo "alias henriq='node ~/linuxh.js/henriq-js.js'" >> ~/.bashrc
-
-source ~/.bashrc
-
-Agora basta usar:
-
-henriq
-
----
-
-🛠 FUTURAS ATUALIZAÇÕES
-
-◉ Plugins
-◉ AI Tools
-◉ SSH System
-◉ Better Android Integration
-◉ Advanced Themes
-◉ Multi Window
-◉ Better Performance
-◉ More DEV Tools
-◉ Cyberpunk Effects
-
----
-
-🌐 REPOSITÓRIO
-
-https://github.com/henriq-ycler-js/henriq-js-terminal
-
----
-
-👨‍💻 AUTOR
-
-HENRIQ-JS
-
-«“Transformando o Termux em um verdadeiro sistema cyberpunk para programadores.”»
-
-<br><img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,100:00ccff&height=120&section=footer"/><img src="https://img.shields.io/badge/TV_BOX-COMPATIBLE-bb00ff?style=for-the-badge">
+<img src="https://img.shields.io/badge/TV_BOX-COMPATIBLE-bb00ff?style=for-the-badge">
 
 <br><br>
 
-> Futuristic hacker operating system inspired by Kali Linux, Matrix and Cyberpunk 2077.
+> Futuristic hacker operating system inspired by Kali Linux, Matrix and Cyberpunk 2077
 
 </div>
 
 ---
 
-# 🧠 SOBRE
+# 🧠 SOBRE O PROJETO
 
-O **HENRIQ-JS TERMINAL** foi criado para transformar o Termux Android em um verdadeiro ambiente cyberpunk para programadores.
+O **HENRIQ-JS TERMINAL** foi criado para transformar o Termux Android em uma experiência cyberpunk real para programadores.
 
 Inspirado em:
 - Kali Linux
@@ -442,7 +36,7 @@ Inspirado em:
 - Cyberpunk 2077
 - Linux terminals reais
 
-O projeto mistura:
+O projeto combina:
 - NodeJS
 - Linux Shell
 - Ferramentas DEV
@@ -456,15 +50,16 @@ Tudo funcionando dentro de um único arquivo JavaScript.
 
 # ⚡ VISUAL CYBERPUNK
 
-✔ ANSI COLORS  
-✔ Neon Effects  
-✔ Hacker UI  
-✔ Animated Menus  
-✔ Linux Panels  
-✔ Cyberpunk Interface  
-✔ Matrix Style  
-✔ Responsive Layout  
-✔ TV Box Optimized  
+```text
+◉ ANSI COLORS
+◉ Neon Effects
+◉ Hacker UI
+◉ Animated Menus
+◉ Linux Panels
+◉ Matrix Style
+◉ Responsive Layout
+◉ TV Box Optimized
+```
 
 ---
 
@@ -483,10 +78,11 @@ Tudo funcionando dentro de um único arquivo JavaScript.
 ✔ Port Scanner
 ✔ API Creator
 ✔ NodeJS Projects
-✔ Hacker Interface
 ✔ Android Launcher
 ✔ TV Box Support
 ```
+
+E muito mais chegando nos próximos upgrades...
 
 ---
 
@@ -527,15 +123,11 @@ Tudo funcionando dentro de um único arquivo JavaScript.
 pkg update -y && pkg upgrade -y
 ```
 
----
-
 ## Instalar dependências
 
 ```bash
 pkg install git nodejs nano curl wget python vim zip unzip -y
 ```
-
----
 
 ## Clonar repositório
 
@@ -543,25 +135,19 @@ pkg install git nodejs nano curl wget python vim zip unzip -y
 git clone https://github.com/henriq-ycler-js/henriq-js-terminal
 ```
 
----
-
 ## Entrar na pasta
 
 ```bash
-cd henriq-js-terminal
+cd linuxh.js
 ```
 
----
-
-## Instalar dependências
+## Criar package.json
 
 ```bash
-npm install
+npm init -y
 ```
 
----
-
-## Executar
+## Executar terminal
 
 ```bash
 node henriq-js.js
@@ -572,7 +158,7 @@ node henriq-js.js
 # ⚡ EXECUÇÃO RÁPIDA
 
 ```bash
-echo "alias henriq='node ~/henriq-js-terminal/henriq-js.js'" >> ~/.bashrc
+echo "alias henriq='node ~/linuxh.js/henriq-js.js'" >> ~/.bashrc
 ```
 
 ```bash
@@ -611,7 +197,7 @@ https://github.com/henriq-ycler-js/henriq-js-terminal
 
 # 👨‍💻 AUTOR
 
-# HENRIQ-JS
+## HENRIQ-JS
 
 > “Transformando o Termux em um verdadeiro sistema cyberpunk para programadores.”
 
