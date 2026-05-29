@@ -2,7 +2,7 @@
 
 Advanced Cyberpunk Developer Terminal for Termux Android
 
-<img src="https://raw.githubusercontent.com/henriq-ycler-js/henriq-js-terminal/bb196368b9a227cd2ee0355eddfcfc5875a70009/Screenshot_20260529_160555_Termux.jpg" width="100%"><br>"NodeJS" (https://img.shields.io/badge/NodeJS-Termux-green)
+<img src="https://raw.githubusercontent.com/henriq-ycler-js/henriq-js-terminal/bb196368b9a227cd2ee0355eddfcfc5875a70009/Screenshot_20260529_160555_Termux.jpg" width="200%"><br>"NodeJS" (https://img.shields.io/badge/NodeJS-Termux-green)
 "Android" (https://img.shields.io/badge/Android-Compatible-brightgreen)
 "Termux" (https://img.shields.io/badge/Termux-Supported-blue)
 "TV Box" (https://img.shields.io/badge/TV%20Box-Compatible-purple)
