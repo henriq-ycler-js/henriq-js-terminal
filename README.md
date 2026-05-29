@@ -149,30 +149,10 @@ cd henriq-js-terminal
 
 ---
 
-## Criar package.json
+## Instalar dependências
 
 ```bash
-npm init -y
-```
-
----
-
-## Criar arquivo principal
-
-```bash
-nano henriq-js.js
-```
-
-Cole o código do terminal.
-
----
-
-## Salvar arquivo
-
-```text
-CTRL + O
-ENTER
-CTRL + X
+npm install
 ```
 
 ---
@@ -180,7 +160,7 @@ CTRL + X
 ## Executar terminal
 
 ```bash
-node henriq-js.js
+node linuxh.js
 ```
 
 ---
@@ -188,7 +168,7 @@ node henriq-js.js
 # ⚡ EXECUÇÃO RÁPIDA
 
 ```bash
-echo "alias henriq='node ~/henriq-js-terminal/henriq-js.js'" >> ~/.bashrc
+echo "alias henriq='node ~/henriq-js-terminal/linuxh.js'" >> ~/.bashrc
 ```
 
 ```bash
@@ -233,4 +213,6 @@ henriq
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,100:00ccff&height=120&section=footer"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,100:00ccff&height=120&section=footer"/>
+</p>
